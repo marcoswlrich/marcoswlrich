@@ -1,6 +1,6 @@
 ### Olá! Eu sou Marcos Wlrich! 
 
-🖖👾🤖
+👽👾🤖
 
 - 🚀 Estudando Javascript
 - 🤞 Em Fase de transição de carreira e em busca da primeira oportunidade
@@ -9,8 +9,8 @@
 <br>
  <div>
   <a href="https://github.com/marcoswlrich">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcoswlrich&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoswlrich&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=marcoswlrich&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoswlrich&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br> 
   
