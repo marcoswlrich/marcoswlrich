@@ -40,7 +40,7 @@
   </div>
   <br>
   <div>
-   <img align="right" alt="Rafa-yoda" height="180" width="200" src="https://teianeuronial.com/wp-content/uploads/2009/08/Spock-1024x834.jpg">
+   <img align="right" alt="Rafa-yoda" height="200" width="220" src="https://teianeuronial.com/wp-content/uploads/2009/08/Spock-1024x834.jpg">
   </div>
 
 ##
