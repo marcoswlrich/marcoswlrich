@@ -1,4 +1,4 @@
-### Olá! Eu sou Marcos Wlrich! Seja bem-vindo!! 🖖👾🤖
+### Olá! Eu sou Marcos Wlrich! 🖖👾🤖
 
 - 🚀 Estudando Javascript
 - 🤞 Em Fase de transição de carreira e em busca da primeira oportunidade
