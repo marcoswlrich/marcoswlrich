@@ -1,4 +1,6 @@
-### Olá! Eu sou Marcos Wlrich! 🖖👾🤖
+### Olá! Eu sou Marcos Wlrich! 
+
+🖖👾🤖
 
 - 🚀 Estudando Javascript
 - 🤞 Em Fase de transição de carreira e em busca da primeira oportunidade
@@ -39,11 +41,12 @@
  
   </div>
   <br>
-  <div>
-   <img align="right" alt="Rafa-yoda" height="200" width="220" src="https://teianeuronial.com/wp-content/uploads/2009/08/Spock-1024x834.jpg">
-  </div>
+  
 
 ##
+ <div>
+   <img align="right" alt="Rafa-yoda" height="200" width="220" src="https://teianeuronial.com/wp-content/uploads/2009/08/Spock-1024x834.jpg">
+  </div>
   <br>
   <em>"Em um mundo de imãs e milagres, nossos pensamentos vagavam constantemente sem limites" - High Hopes - </em>
   <span><strong>Pink Floyd</strong></span>
