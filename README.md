@@ -48,7 +48,7 @@
    <img align="right" alt="Rafa-yoda" height="200" width="220" src="https://teianeuronial.com/wp-content/uploads/2009/08/Spock-1024x834.jpg">
   </div>
   <br>
-  <em>"Em um mundo de imãs e milagres, nossos pensamentos vagavam constantemente sem limites" - High Hopes - </em>
-  <span><strong>Pink Floyd</strong></span>
+  <h3><em>"Em um mundo de imãs e milagres, nossos pensamentos vagavam constantemente sem limites". High Hopes - </em>
+   <span><strong>Pink Floyd</strong></span></h3>
 
 
