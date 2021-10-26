@@ -45,7 +45,7 @@
 
 ##
  <div>
-   <img align="right" alt="Rafa-yoda" height="200" width="220" src="https://teianeuronial.com/wp-content/uploads/2009/08/Spock-1024x834.jpg">
+   <img align="right" alt="Rafa-yoda" height="200" width="220" src="https://github.com/marcoswlrich/marcoswlrich/blob/main/avatar_1635222437603.png?raw=true">
   </div>
   <br>
   <h3><em>"Em um mundo de imãs e milagres, nossos pensamentos vagavam constantemente sem limites". High Hopes - </em>
