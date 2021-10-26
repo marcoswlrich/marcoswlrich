@@ -1,7 +1,4 @@
 
-<img align="right" alt="GIF" src="https://github.com/marcoswlrich/marcoswlrich/blob/main/avatar_1635222437603.png?raw=true" width="320" height="320" />
-
-<br>
 
 ### Olá! Eu sou Marcos Wlrich! 
 
@@ -51,4 +48,6 @@
 
 ##
 
+<img align="right" alt="GIF" src="https://github.com/marcoswlrich/marcoswlrich/blob/main/avatar_1635222437603.png?raw=true" width="320" height="320" />
+ 
 **Em um mundo de imãs e milagres, nossos pensamentos vagavam constantemente sem limites. _High Hopes_. Pink Floyd**
