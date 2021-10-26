@@ -1,8 +1,6 @@
+#  Olá! Eu sou Marcos Wlrich!🤖
 
 
-### Olá! Eu sou Marcos Wlrich! 
-
-👽👾🤖
 
 - 🚀 Estudando Javascript
 - 🤞 Em Fase de transição de carreira e em busca da primeira oportunidade
@@ -48,6 +46,6 @@
 
 ##
 
-<img align="right" alt="GIF" src="https://github.com/marcoswlrich/marcoswlrich/blob/main/avatar_1635222437603.png?raw=true" width="320" height="320" />
+<img align="right" alt="GIF" src="https://github.com/marcoswlrich/marcoswlrich/blob/main/avatar_1635222437603.png?raw=true" width="300" height="300" />
  
-**Em um mundo de imãs e milagres, nossos pensamentos vagavam constantemente sem limites. _High Hopes_. Pink Floyd**
+*"Em um mundo de imãs e milagres, nossos pensamentos vagavam constantemente sem limites."* **_High Hopes_ - Pink Floyd**
