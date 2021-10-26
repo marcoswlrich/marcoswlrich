@@ -1,3 +1,8 @@
+
+<img align="right" alt="GIF" src="https://github.com/marcoswlrich/marcoswlrich/blob/main/avatar_1635222437603.png?raw=true" width="320" height="320" />
+
+<br>
+
 ### Olá! Eu sou Marcos Wlrich! 
 
 👽👾🤖
@@ -5,7 +10,8 @@
 - 🚀 Estudando Javascript
 - 🤞 Em Fase de transição de carreira e em busca da primeira oportunidade
 - 🗺 Sempre planejando boas viagens
-- 🤘 Apaixonado por Iron Maiden e Pink Floyd
+- 🤘 Apaixonado por Iron Maiden e Pink Floyd 
+
 <br>
  <div>
   <a href="https://github.com/marcoswlrich">
@@ -44,11 +50,5 @@
   
 
 ##
- <div>
-   <img align="right" alt="Rafa-yoda" height="200" width="220" src="https://github.com/marcoswlrich/marcoswlrich/blob/main/avatar_1635222437603.png?raw=true">
-  </div>
-  <br>
-  <h3><em>"Em um mundo de imãs e milagres, nossos pensamentos vagavam constantemente sem limites". High Hopes - </em>
-   <span><strong>Pink Floyd</strong></span></h3>
 
-
+**Em um mundo de imãs e milagres, nossos pensamentos vagavam constantemente sem limites. _High Hopes_. Pink Floyd**
