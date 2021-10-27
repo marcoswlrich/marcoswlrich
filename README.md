@@ -9,9 +9,9 @@
 - 🚀 Studying Javascript
 - 👨🏻‍💻 I’m currently learning Full Stack Development
 - 👾 Fun fact: Equal is Not Always Equal in Javascript.
-- 🤞 In career transition phase
+- 📢 In career transition phase
 - 🗺 Always planning good trips
-- 🤘 I love Pink floyd and Iron Maiden
+- 🎶 I love Pink floyd and Iron Maiden
 - 📚 I love russian and hispanic literature
 - 🐱 I have three cats 
 
@@ -21,6 +21,7 @@
    <a href = "mailto:marcosapw.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://twitter.com/marcoswlrich_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   </div>
+  <br>
 
 -------
 
@@ -46,6 +47,7 @@
   <img align="center" alt="Marcos-Next" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" >
   <img align="center" alt="Marcos-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marcos-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img  align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img align="center" alt="Marcos-Visual" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" >
   <img align="center" alt="Marcos-Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" >  
   <img align="center" alt="Marcos-Win" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" >
@@ -53,8 +55,7 @@
   </div>
   <br>
   
-
-##
+-------
 
 <img align="right" alt="GIF" src="https://github.com/marcoswlrich/marcoswlrich/blob/main/avatar_1635222437603.png?raw=true" width="300" height="300" />
  
