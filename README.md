@@ -15,7 +15,7 @@
 - 📚 I love russian and hispanic literature
 - 🐱 I have three cats 
 
-<h3 align="left">💬 Connect with me:</h3>
+<h3 align="left">💬 How to reach me:</h3>
 <div>
    <a href="https://www.linkedin.com/in/marcos-wlrich-120020190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href = "mailto:marcosapw.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -26,7 +26,7 @@
 
 -------
 
-<h3 align="left"><img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='35px'> My GitHub Stats:</h3>
+<h3 align="left"><img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='30px'> My GitHub Stats:</h3>
 
 <br>
  <div align="center">
@@ -39,7 +39,7 @@
 -------
  
   <div style="display: inline_block">
-    <h3>Languages and Tools:</h3>  
+    <h3>⚙ Languages and Tools:</h3>  
   <img align="center" alt="Marcos-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marcos-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Marcos-Node" height="40"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" >
