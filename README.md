@@ -26,7 +26,7 @@
 
 -------
 
-<h3 align="left"><img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='30px'> My GitHub Stats:</h3>
+<h3 align="left">📈 My GitHub Stats:</h3>
 
 <br>
  <div align="center">
@@ -38,8 +38,9 @@
  
 -------
  
+ <h3>⚙ Languages and Tools:</h3> 
+ <br>
   <div style="display: inline_block">
-    <h3>⚙ Languages and Tools:</h3>  
   <img align="center" alt="Marcos-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marcos-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Marcos-Node" height="40"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" >
