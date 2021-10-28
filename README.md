@@ -17,7 +17,7 @@
 
 <h3 align="left">💬 How to reach me:</h3>
 <div>
-   <a href="https://www.linkedin.com/in/marcos-wlrich-120020190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/marcos-wlrich-703521223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href = "mailto:marcosapw.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://twitter.com/marcoswlrich_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   </div>
@@ -59,12 +59,17 @@
   
 -------
 
-<img align="right" alt="GIF" src="https://github.com/marcoswlrich/marcoswlrich/blob/main/avatar_1635222437603.png?raw=true" width="300" height="300" />
- 
-*"Em um mundo de imãs e milagres, nossos pensamentos vagavam constantemente sem limites."* **_High Hopes_ - Pink Floyd**
- 
- <a href="https://medium.com/@marcoswlrich" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+<p align="center"><em>"In a world of magnets and miracles our thoughts strayed constantly and without boundary..." <strong>High Hopes<strong></em> -<strong> Pink Floyd<strong> </p>
    
- <a href="https://www.instagram.com/marcoswlrich/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+-------   
    
-<a href="" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"></a> 
+<h3 align="center"><img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29px'> Thanks for the visit! Check back often!</h3>
+<div align="center">
+   <img alt="GIF" src="https://github.com/marcoswlrich/marcoswlrich/blob/main/avatar_1635222437603.png?raw=true" width="200" height="200" />
+</div>
+<br>
+<div align="center"> 
+   <a href="https://medium.com/@marcoswlrich" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+   <a href="https://www.instagram.com/marcoswlrich/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://dev.to/marcoswlrich" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank">    </a>
+</div>
