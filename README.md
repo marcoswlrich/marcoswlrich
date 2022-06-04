@@ -4,7 +4,7 @@
 <h1  align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! I’m Marcos Wlrich 🖖</h1>
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1635349855673.png" width="400px" />
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30"> About Me:
 
 - 🚀 Studying Javascript
 - 👨🏻‍💻 I’m currently learning Full Stack Development
@@ -26,7 +26,7 @@
 
 -------
 
-<h3 align="left"><img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My GitHub Stats:</h3>
+<h3 align="left"><img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='30'> My GitHub Stats:</h3>
 
 <br>
  <div align="center">
@@ -38,7 +38,7 @@
  
 -------
  
- <h3><img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 23px> Languages and Tools:</h3> 
+ <h3><img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30> Languages and Tools:</h3> 
  <br>
   <div style="display: inline_block">
   <img align="center" alt="Marcos-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -65,7 +65,7 @@
    
 -------   
    
-<h3 align="center"><img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29px'> Thanks for the visit! Check back often!</h3>
+<h3 align="center"><img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='30'> Thanks for the visit! Check back often!</h3>
 <div align="center">
    <img alt="GIF" src="https://github.com/marcoswlrich/marcoswlrich/blob/main/avatar_1635222437603.png?raw=true" width="200" height="200" />
 </div>
