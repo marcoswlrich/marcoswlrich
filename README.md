@@ -9,13 +9,11 @@
    ![](https://komarev.com/ghpvc/?username=marcoswlrich&color=268F77&label=Profile+Views) [![wakatime](https://wakatime.com/badge/user/7630e9eb-8fff-4e56-b8e4-5a5223c7d1e0.svg)](https://wakatime.com/@7630e9eb-8fff-4e56-b8e4-5a5223c7d1e0)
 </div>
 
-<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1635349855673.png" width="400px" />
-<br>
-<br>
+<div>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30"> About Me:
 
-<samp>
+<samp> 
    
 - 🚀 Studying software engineering
 - 👨🏻‍💻 I'm currently studying Rust, C and Go
@@ -24,9 +22,12 @@
 - 🗺 Always planning good trips
 - 🎶 I love Pink floyd and Iron Maiden
 - 📚 I love russian and hispanic literature
-- 🐱 I have three cats 
+- 🐱 I have three cats
    
 </samp>
+
+</div>
+
 <h4 align="left">💬 How to reach me:</h4>
 <div>
    <a href="https://www.linkedin.com/in/marcos-wlrich-703521223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -41,8 +42,8 @@ ___
 <br>
  <div align="center">
   <a href="https://github.com/marcoswlrich">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoswlrich&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoswlrich&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoswlrich&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoswlrich&layout=compact&langs_count=7&theme=nord"/>
  </div>
 <br> 
 
@@ -99,6 +100,8 @@ JavaScript   1 min           ░░░░░░░░░░░░░░░░░
 <br>
 <p align="center"><em>"In a world of magnets and miracles our thoughts strayed constantly and without boundary..." <strong>High Hopes<strong></em> -<strong> Pink Floyd<strong> </p>
 <br>
+   
+
    
 -------   
    
