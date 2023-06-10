@@ -5,15 +5,16 @@
 <div align="center">
    <h1>Hi there, I'm <a href="">Marcos</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>    
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+   
+   ![](https://komarev.com/ghpvc/?username=marcoswlrich&color=268F77&label=Profile+Views) [![wakatime](https://wakatime.com/badge/user/7630e9eb-8fff-4e56-b8e4-5a5223c7d1e0.svg)](https://wakatime.com/@7630e9eb-8fff-4e56-b8e4-5a5223c7d1e0)
 </div>
-<h3 align="center">
 
-![](https://komarev.com/ghpvc/?username=marcoswlrich&color=268F77&label=Profile+Views) [![wakatime](https://wakatime.com/badge/user/7630e9eb-8fff-4e56-b8e4-5a5223c7d1e0.svg)](https://wakatime.com/@7630e9eb-8fff-4e56-b8e4-5a5223c7d1e0)
-
-</h3>
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1635349855673.png" width="400px" />
+<br>
+<br>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30"> About Me:
+
 <samp>
    
 - 🚀 Studying software engineering
@@ -26,14 +27,16 @@
 - 🐱 I have three cats 
    
 </samp>
-<h3 align="left">💬 How to reach me:</h3>
+<h4 align="left">💬 How to reach me:</h4>
 <div>
    <a href="https://www.linkedin.com/in/marcos-wlrich-703521223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href = "mailto:marcosapw.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://twitter.com/marcoswlrich_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   </div>
 <br>
-<br>
+
+___
+
 <h3> &#9889 Stats:</h3>
 <br>
  <div align="center">
@@ -59,11 +62,20 @@ JavaScript   1 min           ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+<br>
+   
 -------
- 
- <h3><img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30> Languages and Tools:</h3> 
- <br>
-  <div style="display: inline_block">
+
+   
+<h3><img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30> Languages and Tools:</h3> 
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=15)](https://skillicons.dev)
+  
+   <div align="center" style="display: inline_block">
+     
+  
+     
   <img align="center" alt="Marcos-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marcos-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Marcos-Node" height="40"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" >
@@ -84,7 +96,9 @@ JavaScript   1 min           ░░░░░░░░░░░░░░░░░
   
 -------
 
+<br>
 <p align="center"><em>"In a world of magnets and miracles our thoughts strayed constantly and without boundary..." <strong>High Hopes<strong></em> -<strong> Pink Floyd<strong> </p>
+<br>
    
 -------   
    
@@ -92,7 +106,7 @@ JavaScript   1 min           ░░░░░░░░░░░░░░░░░
    
 <div align="center">
    
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12157511204&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=12157511204&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12157511204&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12157511204&redirect=true)
    
 </div>
    
