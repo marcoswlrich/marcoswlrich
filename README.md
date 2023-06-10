@@ -11,8 +11,10 @@
 
 <div>
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30"> About Me:
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30"> About Me:
 
+<br>
+   
 <samp> 
    
 - 🚀 Studying software engineering
@@ -36,9 +38,7 @@
   </div>
 <br>
 
-___
-
-<h3> &#9889 Stats:</h3>
+<h2> &#9889 Stats:</h2>
 <br>
  <div align="center">
   <a href="https://github.com/marcoswlrich">
