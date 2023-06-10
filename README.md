@@ -16,7 +16,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30"> About Me:
 <samp>
    
-- 🚀 studying software engineering
+- 🚀 Studying software engineering
 - 👨🏻‍💻 I'm currently studying Rust, C and Go
 - 👾 Fun fact: My dream is to work with Back-End development
 - 📢 In career transition phase
@@ -38,12 +38,10 @@
 <br>
  <div align="center">
   <a href="https://github.com/marcoswlrich">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=marcoswlrich&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoswlrich&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoswlrich&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoswlrich&layout=compact&langs_count=7&theme=gruvbox"/>
  </div>
 <br> 
- 
-### Code Stats
 
 <!--START_SECTION:waka-->
 
