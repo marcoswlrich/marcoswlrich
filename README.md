@@ -1,21 +1,21 @@
-<p align="center">
-<img alt="GIF" src="https://user-images.githubusercontent.com/48784001/130169241-21e51597-9693-47ff-a304-de1812851cd7.gif" />
-</p>
-
 <div align="center">
    <h1>Hi there, I'm <a href="">Marcos</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>    
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
    
    ![](https://komarev.com/ghpvc/?username=marcoswlrich&color=268F77&label=Profile+Views) [![wakatime](https://wakatime.com/badge/user/7630e9eb-8fff-4e56-b8e4-5a5223c7d1e0.svg)](https://wakatime.com/@7630e9eb-8fff-4e56-b8e4-5a5223c7d1e0)
+   
+   <p>
+<img alt="GIF" src="https://user-images.githubusercontent.com/48784001/130169241-21e51597-9693-47ff-a304-de1812851cd7.gif" />
+</p>
+   
 </div>
 
-<div>
+
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30"> About Me:
 
 <br>
-   
-<samp> 
+<div>  
    
 - 🚀 Studying software engineering
 - 👨🏻‍💻 I'm currently studying Rust, C and Go
@@ -25,12 +25,10 @@
 - 🎶 I love Pink floyd and Iron Maiden
 - 📚 I love russian and hispanic literature
 - 🐱 I have three cats
-   
-</samp>
 
 </div>
 
-<h4 align="left">💬 How to reach me:</h4>
+<h4>💬 How to reach me:</h4>
 <div>
    <a href="https://www.linkedin.com/in/marcos-wlrich-703521223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href = "mailto:marcosapw.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
