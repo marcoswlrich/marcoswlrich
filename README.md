@@ -1,14 +1,19 @@
 <p align="center">
 <img alt="GIF" src="https://user-images.githubusercontent.com/48784001/130169241-21e51597-9693-47ff-a304-de1812851cd7.gif" />
 </p>
-<h1  align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! I’m Marcos Wlrich 🖖</h1>
+<div align="center">
+   <h1>Hi there, I'm <a href="">Marcos</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   
+   
+   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+</div>
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1635349855673.png" width="400px" />
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30"> About Me:
 
-- 🚀 Studying Javascript
-- 👨🏻‍💻 I’m currently learning Full Stack Development
-- 👾 Fun fact: Equal is Not Always Equal in Javascript.
+- 🚀 studying software engineering
+- 👨🏻‍💻 I'm currently studying Rust, C and Go
+- 👾 Fun fact: My dream is to work with Back-End development
 - 📢 In career transition phase
 - 🗺 Always planning good trips
 - 🎶 I love Pink floyd and Iron Maiden
@@ -31,8 +36,8 @@
 <br>
  <div align="center">
   <a href="https://github.com/marcoswlrich">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcoswlrich&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoswlrich&layout=compact&langs_count=7&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcoswlrich&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoswlrich&layout=compact&langs_count=7&theme=gruvbox"/>
  </div>
 <br> 
  
@@ -93,3 +98,5 @@ JavaScript   1 min           ░░░░░░░░░░░░░░░░░
    <a href="https://www.instagram.com/marcoswlrich/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://dev.to/marcoswlrich" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank">    </a>
 </div>
+   
+![](https://gitwar.herokuapp.com/badge?marcoswlrich=your-github-marcoswlrich&color=green)
