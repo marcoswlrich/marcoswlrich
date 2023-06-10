@@ -79,6 +79,9 @@ JavaScript   1 min           ░░░░░░░░░░░░░░░░░
 -------
  
 <br>
+ 
+[![Quotify](https://github-readme-quotify.vercel.app/api?mode=mixed&type=horizontal&theme=nord&quote=In+a+world+of+magnets+and+miracles+our+thoughts+strayed+constantly+and+without+boundary&author=High+Hopes+-+Pink+Floyd)](https://github.com/Vishal-beep136/github-readme-quotify)
+   
 <p align="center"><em>"In a world of magnets and miracles our thoughts strayed constantly and without boundary..." <strong>High Hopes<strong></em> -<strong> Pink Floyd<strong> </p>
 <br>
    
