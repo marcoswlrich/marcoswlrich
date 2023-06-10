@@ -37,12 +37,16 @@
 <br> 
  
 -------
-   <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
    
- 
-   
-   
-   <!--END_SECTION:waka-->
+```txt
+Vue.js   10 hrs 11 mins  ██████████████▓░░░░░░░░░░   58.86 %
+Python   6 hrs 49 mins   ██████████░░░░░░░░░░░░░░░   39.46 %
+YAML     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Other    6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+JSON     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+```
+<!--END_SECTION:waka-->
 -------
  
  <h3><img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30> Languages and Tools:</h3> 
