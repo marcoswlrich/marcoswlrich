@@ -69,38 +69,15 @@ JavaScript   1 min           ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <br>
+      
+<h2><img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30> Languages and Tools:</h2> 
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,graphql,rust,py,lua,java,c,cpp,linux,neovim,bash,emacs,idea,vscode,md,sass,tailwind&perline=15)](https://skillicons.dev)
+
+<br>
    
 -------
-
-   
-<h3><img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30> Languages and Tools:</h3> 
-
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=15)](https://skillicons.dev)
-  
-   <div align="center" style="display: inline_block">
-     
-  
-     
-  <img align="center" alt="Marcos-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Marcos-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Marcos-Node" height="40"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" >
-  <img align="center" alt="Marcos-Express" height="40"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" >
-  <img align="center" alt="Marcos-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Marcos-Next" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" >
-  <img align="center" alt="Marcos-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Marcos-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img  align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img align="center" alt="Marcos-Vscode" height="40" width="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>   
-  <img align="center" alt="Marcos-Vim" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-  <img align="center" alt="Marcos-Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" > 
-  <img align="center" alt="Marcos-Win" height="40" width="40" src="https://img.icons8.com/fluency/48/000000/windows-10.png"/>
-     
  
-  </div>
-  <br>
-  
--------
-
 <br>
 <p align="center"><em>"In a world of magnets and miracles our thoughts strayed constantly and without boundary..." <strong>High Hopes<strong></em> -<strong> Pink Floyd<strong> </p>
 <br>
