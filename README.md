@@ -4,13 +4,13 @@
    
    ![](https://komarev.com/ghpvc/?username=marcoswlrich&color=268F77&label=Profile+Views) [![wakatime](https://wakatime.com/badge/user/7630e9eb-8fff-4e56-b8e4-5a5223c7d1e0.svg)](https://wakatime.com/@7630e9eb-8fff-4e56-b8e4-5a5223c7d1e0)
    
-   <p>
+<p>
 <img alt="GIF" src="https://user-images.githubusercontent.com/48784001/130169241-21e51597-9693-47ff-a304-de1812851cd7.gif" />
 </p>
    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=81A1C1&width=435&lines=Classic+Rock%2C+Linux+and+Neovim+%F0%9F%A4%9F;Future+Back-End+Developer)](https://git.io/typing-svg)
+   
 </div>
-<br>
-
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30"> About Me:
 
@@ -21,6 +21,8 @@
 - 👨🏻‍💻 I'm currently studying Rust, C and Go
 - 👾 Fun fact: My dream is to work with Back-End development
 - 📢 In career transition phase
+- ⌨ My favorite editor: Neovim
+- 🐧 Current Linux Distro: Fedora
 - 🗺 Always planning good trips
 - 🎶 I love Pink floyd and Iron Maiden
 - 📚 I love russian and hispanic literature
@@ -36,8 +38,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-@marcoswlrich_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/marcoswlrich_)](https://twitter.com/marcoswlrich_)
 [![Gmail Badge](https://img.shields.io/badge/-marcosapw.dev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:marcosapw.dev@gmail.com)](mailto:marcosapw.dev@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@marcoswlrich-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/marcoswlrich/)](https://www.instagram.com/marcoswlrich/)
-[![Spotify Badge](https://img.shields.io/badge/Playlists%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/12157511204)
-[![Devto Badge](https://img.shields.io/badge/-marcoswlrich-0A0A0A?style=flat&logo=devdotto&logoColor=fff&link=https://dev.to/marcoswlrich)](https://dev.to/marcoswlrich)
    
 </div>
 <br>
@@ -79,8 +79,6 @@ JavaScript   1 min           ░░░░░░░░░░░░░░░░░
 -------
  
 <br>
- 
-[![Quotify](https://github-readme-quotify.vercel.app/api?mode=mixed&type=horizontal&theme=nord&quote=In+a+world+of+magnets+and+miracles+our+thoughts+strayed+constantly+and+without+boundary&author=High+Hopes+-+Pink+Floyd)](https://github.com/Vishal-beep136/github-readme-quotify)
    
 <p align="center"><em>"In a world of magnets and miracles our thoughts strayed constantly and without boundary..." <strong>High Hopes<strong></em> -<strong> Pink Floyd<strong> </p>
 <br>
@@ -98,10 +96,9 @@ JavaScript   1 min           ░░░░░░░░░░░░░░░░░
 </div>
    
 <div align="center"> 
-   <a href="https://medium.com/@marcoswlrich" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
-   <a href="https://www.instagram.com/marcoswlrich/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://dev.to/marcoswlrich" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank">    </a>
+
+[![Spotify Badge](https://img.shields.io/badge/Playlists%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/12157511204)
+[![Devto Badge](https://img.shields.io/badge/-marcoswlrich-0A0A0A?style=flat&logo=devdotto&logoColor=fff&link=https://dev.to/marcoswlrich)](https://dev.to/marcoswlrich)
+   
 </div>
    
-![](https://gitwar.herokuapp.com/badge?username=your-github-marcoswlrich&color=green)
-
