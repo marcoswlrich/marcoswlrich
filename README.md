@@ -1,6 +1,7 @@
 <p align="center">
 <img alt="GIF" src="https://user-images.githubusercontent.com/48784001/130169241-21e51597-9693-47ff-a304-de1812851cd7.gif" />
 </p>
+
 <div align="center">
    <h1>Hi there, I'm <a href="">Marcos</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
@@ -89,10 +90,13 @@ JavaScript   1 min           ░░░░░░░░░░░░░░░░░
 -------   
    
 <h3 align="center"><img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='30'> Thanks for the visit! Check back often!</h3>
+   
 <div align="center">
-   <img alt="GIF" src="https://github.com/marcoswlrich/marcoswlrich/blob/main/avatar_1635222437603.png?raw=true" width="200" height="200" />
+   
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12157511204&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=12157511204&redirect=true)
+   
 </div>
-<br>
+   
 <div align="center"> 
    <a href="https://medium.com/@marcoswlrich" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
    <a href="https://www.instagram.com/marcoswlrich/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -100,3 +104,4 @@ JavaScript   1 min           ░░░░░░░░░░░░░░░░░
 </div>
    
 ![](https://gitwar.herokuapp.com/badge?marcoswlrich=your-github-marcoswlrich&color=green)
+
