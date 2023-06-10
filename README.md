@@ -37,7 +37,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-marcosapw.dev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:marcosapw.dev@gmail.com)](mailto:marcosapw.dev@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@marcoswlrich-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/marcoswlrich/)](https://www.instagram.com/marcoswlrich/)
 [![Spotify Badge](https://img.shields.io/badge/Playlists%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/12157511204)
-[![Medium Badge](https://img.shields.io/badge/-@marcoswlrich-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@marcoswlrich)](https://medium.com/@marcoswlrich)
 [![Devto Badge](https://img.shields.io/badge/-marcoswlrich-0A0A0A?style=flat&logo=devdotto&logoColor=fff&link=https://dev.to/marcoswlrich)](https://dev.to/marcoswlrich)
    
 </div>
