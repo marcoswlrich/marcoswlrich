@@ -9,7 +9,7 @@
 </p>
    
 </div>
-
+<br>
 
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30"> About Me:
@@ -27,24 +27,20 @@
 - 🐱 I have three cats
 
 </div>
-
+<br>
 <div align="center">
    
+<h4>💬 How to reach me:</h4>
+   
 [![Linkedin Badge](https://img.shields.io/badge/-marcoswlrich-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-wlrich-703521223/)](https://www.linkedin.com/in/marcos-wlrich-703521223/)
-[![Medium Badge](https://img.shields.io/badge/-@jessicalim-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@jessicalim)](https://medium.com/@jessicalim)
-[![Devto Badge](https://img.shields.io/badge/-marcoswlrich-0A0A0A?style=flat&logo=devdotto&logoColor=fff&link=https://dev.to/marcoswlrich)](https://dev.to/marcoswlrich)
 [![Twitter Badge](https://img.shields.io/badge/-@marcoswlrich_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/marcoswlrich_)](https://twitter.com/marcoswlrich_)
+[![Gmail Badge](https://img.shields.io/badge/-marcosapw.dev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:marcosapw.dev@gmail.com)](mailto:marcosapw.dev@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@marcoswlrich-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/marcoswlrich/)](https://www.instagram.com/marcoswlrich/)
-[![Gmail Badge](https://img.shields.io/badge/-marcosapw.dev-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:marcosapw.dev@gmail.com)](mailto:marcosapw.dev@gmail.com)
+[![Spotify Badge](https://img.shields.io/badge/Playlists%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/12157511204)
+[![Medium Badge](https://img.shields.io/badge/-@marcoswlrich-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@marcoswlrich)](https://medium.com/@marcoswlrich)
+[![Devto Badge](https://img.shields.io/badge/-marcoswlrich-0A0A0A?style=flat&logo=devdotto&logoColor=fff&link=https://dev.to/marcoswlrich)](https://dev.to/marcoswlrich)
    
 </div>
-
-<h4>💬 How to reach me:</h4>
-<div>
-   <a href="https://www.linkedin.com/in/marcos-wlrich-703521223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href = "mailto:marcosapw.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://twitter.com/marcoswlrich_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  </div>
 <br>
 
 <h2> &#9889 Stats:</h2>
