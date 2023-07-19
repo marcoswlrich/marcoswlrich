@@ -1,6 +1,6 @@
 <div align="center">
    <h1>Hi there, I'm <a href="">Marcos</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>    
-   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+
    
    ![](https://komarev.com/ghpvc/?username=marcoswlrich&color=268F77&label=Profile+Views) [![wakatime](https://wakatime.com/badge/user/7630e9eb-8fff-4e56-b8e4-5a5223c7d1e0.svg)](https://wakatime.com/@7630e9eb-8fff-4e56-b8e4-5a5223c7d1e0)
    
