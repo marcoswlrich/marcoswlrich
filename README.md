@@ -54,9 +54,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    39 mins         ███████████████████████░░   91.49 %
-Astro         3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
-Objective-C   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+TypeScript    14 mins         █████████████████▒░░░░░░░   69.57 %
+Lua           5 mins          ███████░░░░░░░░░░░░░░░░░░   28.29 %
+Objective-C   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
 ```
 
 <!--END_SECTION:waka-->
