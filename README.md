@@ -59,6 +59,8 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?marcoswlrich=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
       
 <h2><img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30> Languages and Tools:</h2> 
